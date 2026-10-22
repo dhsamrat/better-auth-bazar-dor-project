@@ -1,0 +1,5 @@
+1. create nextjs
+2. npm install better-auth
+3. npm install mongodb 
+4. npm install @better-auth/mongo-adapter
+5. mongodb configure in auth.js
